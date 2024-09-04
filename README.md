@@ -10,7 +10,7 @@ Olá, me chamo Bruno, um desenvolvedor full stack! 🖐️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoShizukuda&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoShizukuda&layout=compact)
 
 ## Tecnologias que utilizo no meu dia
 

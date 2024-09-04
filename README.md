@@ -1,5 +1,10 @@
 ## Olá, me chamo Bruno, um desenvolvedor full stack! 
 
+ Sobre mim!
+  
+- 🌱 Estudando ReactJs
+- 💬 Tive meu primeiro contato com programação no final de 2022, mas desde criança sempre tive a paixão por tecnologia. Desde então venho estudando e praticando para aprimorar meu conhecimento nesse mundo!
+
 <!--
 **BrunoShizukuda/BrunoShizukuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

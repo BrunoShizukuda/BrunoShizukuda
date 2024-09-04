@@ -6,7 +6,8 @@ Olá, me chamo Bruno, um desenvolvedor full stack! 🖐️
 - 💬 Tive meu primeiro contato com programação no final de 2022, mas desde criança sempre tive a paixão por tecnologia. Desde então venho estudando e praticando para aprimorar meu conhecimento nesse mundo!
 - 🚀 Atualmente, tenho foco principal na área fronte-end. Utilizando ReactJs, NodeJs e TypeScript. 
 
-[![Blog]()]
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoShizukuda&show_icons=true&theme=tokyonight)
 

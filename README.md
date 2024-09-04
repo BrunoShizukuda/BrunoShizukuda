@@ -1,20 +1,23 @@
-## Olá, me chamo Bruno, um desenvolvedor full stack! 
+Olá, me chamo Bruno, um desenvolvedor full stack! 🖐️
 
  Sobre mim!
   
 - 🌱 Estudando ReactJs
 - 💬 Tive meu primeiro contato com programação no final de 2022, mas desde criança sempre tive a paixão por tecnologia. Desde então venho estudando e praticando para aprimorar meu conhecimento nesse mundo!
-- <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#75FB4C"><path d="m226-559 78 33q14-28 29-54t33-52l-56-11-84 84Zm142 83 114 113q42-16 90-49t90-75q70-70 109.5-155.5T806-800q-72-5-158 34.5T492-656q-42 42-75 90t-49 90Zm178-65q-23-23-23-56.5t23-56.5q23-23 57-23t57 23q23 23 23 56.5T660-541q-23 23-57 23t-57-23Zm19 321 84-84-11-56q-26 18-52 32.5T532-299l33 79Zm313-653q19 121-23.5 235.5T708-419l20 99q4 20-2 39t-20 33L538-80l-84-197-171-171-197-84 167-168q14-14 33.5-20t39.5-2l99 20q104-104 218-147t235-24ZM157-321q35-35 85.5-35.5T328-322q35 35 34.5 85.5T327-151q-25 25-83.5 43T82-76q14-103 32-161.5t43-83.5Zm57 56q-10 10-20 36.5T180-175q27-4 53.5-13.5T270-208q12-12 13-29t-11-29q-12-12-29-11.5T214-265Z"/></svg>
+- 🚀 Atualmente, tenho foco principal na área fronte-end. Utilizando ReactJs, NodeJs e TypeScript. 
 
-<!--
-**BrunoShizukuda/BrunoShizukuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog]()]
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoShizukuda&show_icons=true&theme=tokyonight)
 
- 
-  
+## Tecnologias que utilizo no meu dia
 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    
+</div>

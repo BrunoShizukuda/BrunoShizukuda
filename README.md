@@ -4,7 +4,7 @@ Olá, me chamo Bruno, um desenvolvedor full stack! 🖐️
   
 - 🌱 Estudando ReactJs
 - 💬 Tive meu primeiro contato com programação no final de 2022, mas desde criança sempre tive a paixão por tecnologia. Desde então venho estudando e praticando para aprimorar meu conhecimento nesse mundo!
-- 🚀 Atualmente, tenho foco principal na área front-end. Utilizando ReactJs, NodeJs e TypeScript!
+- 🚀 Atualmente, tenho foco principal na área front-end. Utilizando ReactJs, NodeJs e TypeScript!!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-shizukuda-586b2324a/)
 

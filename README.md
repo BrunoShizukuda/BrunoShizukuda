@@ -1,4 +1,4 @@
-Olá, me chamo Bruno, um desenvolvedor full stack! 🖐️
+Olá, me chamo Bruno, um desenvolvedor full stack!🖐️
 
  Sobre mim!
   
